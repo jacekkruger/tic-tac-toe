@@ -1,4 +1,4 @@
-package com.kruger;
+package com.kruger.tictactoe;
 
 import java.util.Optional;
 

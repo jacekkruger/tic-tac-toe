@@ -1,4 +1,4 @@
-package com.kruger;
+package com.kruger.tictactoe;
 
 enum TicTacToeElement {
 	CROSS {
